@@ -35,4 +35,6 @@ doc 关于之后的发布，请持续关注……
 说明：本人非盈利性开发，仅个人兴趣交流，但凡有兴趣的都可fork，禁止用于任何盈利。
 ```
 
+![enter description here][1]
 
+  [1]: ./images/qi_hao.jpg "qi_hao.jpg"
