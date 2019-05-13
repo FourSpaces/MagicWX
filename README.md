@@ -36,7 +36,5 @@ doc 关于之后的发布，请持续关注……
 ```
 
 
-![enter description here][1]
+![image](https://github.com/yugu88/MagicWX/blob/master/qi_hao.jpg)
 
-
-  [1]: ./images/qi_hao.jpg "qi_hao.jpg"
