@@ -40,3 +40,4 @@ doc 关于之后的发布，请持续关注……
 
 ![image](https://github.com/yugu88/MagicWX/blob/master/qi_hao.jpg)
 
+![image](https://github.com/yugu88/MagicWX/blob/master/微信.jpg)|![image](https://github.com/yugu88/MagicWX/blob/master/支付宝.jpg)
