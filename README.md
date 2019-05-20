@@ -35,9 +35,14 @@ MagicWX是一个hook微信的开源插件，将不断的维护优化，不断地
 doc 关于之后的发布，请持续关注……
 
 说明：本人非盈利性开发，仅个人兴趣交流，但凡有兴趣的都可fork，禁止用于任何盈利。
+
 ```
+
+ **如果你欣赏我的代码，可以赞赏我几块钱买个键盘。**
+
+|  微信   |  支付宝   |
+| --- | --- |
+|   ![image](https://github.com/yugu88/MagicWX/blob/master/微信.jpg)  |  ![image](https://github.com/yugu88/MagicWX/blob/master/支付宝.jpg)   |
 
 
 ![image](https://github.com/yugu88/MagicWX/blob/master/qi_hao.jpg)
-
-![image](https://github.com/yugu88/MagicWX/blob/master/微信.jpg)|![image](https://github.com/yugu88/MagicWX/blob/master/支付宝.jpg)
