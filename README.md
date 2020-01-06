@@ -46,12 +46,4 @@ doc 关于之后的发布，请持续关注……
 
 ```
 
-##  如果你欣赏我的代码，可以赞赏我几块钱买个键盘。
 
-
-|  微信   |  支付宝   |
-| --- | --- |
-|   ![image](https://github.com/yugu88/MagicWX/blob/master/微信.jpg)  |  ![image](https://github.com/yugu88/MagicWX/blob/master/支付宝.jpg)   |
-
-
-![image](https://github.com/yugu88/MagicWX/blob/master/qi_hao.jpg)
