@@ -5,7 +5,9 @@ MagicWX是一个hook微信的开源插件，将不断的维护优化，不断地
 
 > 本大姐提供脱壳和破解服务，出售所有视频网站的视频源仓库，你要是需要可以加我的微信。同时我还有完整成套的逆向视频，自己录的，和Android虚拟机。仿VirtualApp从0开打写自己的虚拟机apk。
 
-### 微信号: svip-crack
+### 加我微信，微信号: svip-crack
+
+
 
 ![image](https://img-blog.csdnimg.cn/2019123116334614.jpeg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2dmZzE1NjE5Ng==,size_16,color_FFFFFF,t_70)
 
@@ -17,7 +19,7 @@ MagicWX是一个hook微信的开源插件，将不断的维护优化，不断地
  4. 微信夜间模式，微商常用群控系统，一键转发，被动添加好友等，你在其他插件见过的所有功能，（重点：防各项检测，绝不会封号。）
  5. 破解钉钉定位信息，任意修改位置。
  6. 破解网易云音乐VIP会员。
- 7. 所有hook功能免root使用。再也不需要root自己的手机了。
+ 7. 所有hook功能免root使用，不使用xposed框架。再也不需要root自己的手机了。
  8. 应用双开功能。任意双开自己想要双开的app。最多可以9开。
  9. 随意hook别人的xposed插件……
  10. 仿xposed源码，仿虚拟机代码，可以集成到任意app中，不需要root权限实现hook功能。仅4M。防检测，绝不会封号。
@@ -27,6 +29,7 @@ MagicWX是一个hook微信的开源插件，将不断的维护优化，不断地
 
  - 优先上传HDP的破解
  - 上传针对QQ，爱奇艺VIP的破解
+ - Android改机：https://blog.csdn.net/gfg156196/article/details/103352172
 
 ## 不同的功能在不同的分支上，可以切换分支查看。
 
