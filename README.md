@@ -5,9 +5,9 @@ MagicWX是一个hook微信的开源插件，将不断的维护优化，不断地
 
 > 本大姐提供脱壳和破解服务，出售所有视频网站的视频源仓库，你要是需要可以加我的微信。同时我还有完整成套的逆向视频，自己录的，和Android虚拟机。仿VirtualApp从0开始写自己的虚拟机apk。
 
-### 加我微信，微信号: svip-crack
+### 加我微信，微信号: svip-crack。
 
-
+![image](https://github.com/yugu88/MagicWX/blob/master/MagicWX/wx_10.jpg)
 
 ![image](https://img-blog.csdnimg.cn/2019123116334614.jpeg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2dmZzE1NjE5Ng==,size_16,color_FFFFFF,t_70)
 
