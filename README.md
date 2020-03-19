@@ -9,7 +9,7 @@ MagicWX是一个hook微信等常用媒体软件的开源插件，将不断的维
 
 ### QQ群号:187018435
 
-![image](https://github.com/yugu88/MagicWX/blob/master/MagicWX/wx_10.jpg)
+![image](https://img-blog.csdnimg.cn/20200319191809959.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2dmZzE1NjE5Ng==,size_16,color_FFFFFF,t_70)
 
 ![image](https://img-blog.csdnimg.cn/2019123116334614.jpeg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2dmZzE1NjE5Ng==,size_16,color_FFFFFF,t_70)
 
