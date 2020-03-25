@@ -9,7 +9,9 @@ MagicWX是一个hook微信，陌陌，抖音，快手，小红书，连信，bil
 |Manis|更新 |
 |------------|-----------|
 | 一键改机 | Markdown|
-| ![image](https://github.com/yugu88/MagicWX/blob/master/device-2020-03-25-160008.png) | ![image](https://github.com/yugu88/MagicWX/blob/master/device-2020-03-24-102525.png) |
+| ![image](https://github.com/yugu88/MagicWX/blob/master/device-2020-03-25-160008.png) | ![image](https://img-blog.csdnimg.cn/20200324103336571.png) |
+| ![image](https://img-blog.csdnimg.cn/20200319191809959.jpg) | ![image](https://img-blog.csdnimg.cn/2019123116334614.jpeg) |
+
 
 
 ### 可破解任意App接口和协议。完整全套--安全逆向教学视频、书籍，群文件有百度云盘链接。
@@ -19,14 +21,6 @@ MagicWX是一个hook微信，陌陌，抖音，快手，小红书，连信，bil
 ### 制作引流云控和群控系统。逆向破解任意App，出售全部源代码。
 
 >免root，免xposed，经多重防检测处理。保证永不封号，永久使用，已经破解了多平台的封号协议，规避封号协议，使用更稳定更可靠。
-
-
-
-![image](https://img-blog.csdnimg.cn/20200324103336571.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2dmZzE1NjE5Ng==,size_16,color_FFFFFF,t_70)
-
-![image](https://img-blog.csdnimg.cn/20200319191809959.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2dmZzE1NjE5Ng==,size_16,color_FFFFFF,t_70)
-
-![image](https://img-blog.csdnimg.cn/2019123116334614.jpeg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2dmZzE1NjE5Ng==,size_16,color_FFFFFF,t_70)
 
 ## 功能列表
 
@@ -45,6 +39,7 @@ MagicWX是一个hook微信，陌陌，抖音，快手，小红书，连信，bil
  - HDP全工程源码已经上传完成
  - 近期上传针对QQ，爱奇艺VIP的破解
  - Android一键新机：https://blog.csdn.net/gfg156196/article/details/103352172
+ - 微信云控系统和群控系统，微信单机版（微商使用版）
 
 ## 欢迎star，欢迎Fork
 
