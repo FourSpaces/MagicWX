@@ -12,9 +12,12 @@ MagicWX是一个hook微信，陌陌，抖音，快手，小红书，连信，bil
       <source id="mp4" src="http://meishevideo.meisheapp.com/transvideo/2019/12/11/task-1-B1F9F80E-8A27-D290-F599-19198299E071.mp4" type="video/mp4">
       </video>
       
+演示视频：http://meishevideo.meisheapp.com/transvideo/2019/12/11/task-1-B1F9F80E-8A27-D290-F599-19198299E071.mp4
 
 | 一键改机 | Markdown|
+| ---- | ---- |
 | ![image](https://github.com/yugu88/MagicWX/blob/master/device-2020-03-25-160008.png) | ![image](https://img-blog.csdnimg.cn/20200324103336571.png) |
+| ---- | ---- |
 | ![image](https://img-blog.csdnimg.cn/20200319191809959.jpg) | ![image](https://img-blog.csdnimg.cn/2019123116334614.jpeg) |
 
 
