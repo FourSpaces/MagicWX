@@ -2,7 +2,7 @@
 MagicWX是一个hook微信，陌陌，抖音，快手，小红书，连信，bilibili，百家号，今日头条，等常用媒体软件的开源插件，将不断的维护优化。
 # 修改北森等打卡软件位置，模拟WiFi打卡，改机体验等。
 - 链接: https://pan.baidu.com/s/1uuOwkZlGzd5C8dyxpdpCkw  密码: jc48
-- Android 10.0 已适配版本：链接: https://pan.baidu.com/s/1aEUXAX7ikDKdEwV6SmFQeQ  密码: 0603 （最稳定、速度最快）
+- Android 10.0 已适配版本：链接: https://pan.baidu.com/s/1qeHoVFiyEC1DqQMOJNY3NQ  密码: i8sk （最稳定、速度最快）
 
 > 此Git仓库仅为部分demo，仅供学习娱乐不可作为商业用途，大量设计安全隐私的hook功能不会对外公开，想尝试更多功能可以自己不断摸索尝试。需要完整的全套代码库请加QQ群:1092666995。
 
