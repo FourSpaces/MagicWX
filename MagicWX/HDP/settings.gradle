@@ -1,3 +1,0 @@
-include ':app'
-include ':api'
-include ':plugin'
