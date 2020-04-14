@@ -4,13 +4,16 @@
 
 ## 抗击疫情、人人有责
 
-### 关爱自己、注意个人防护
+#### 关爱自己、注意个人卫生。
 
 
-## 公共场所、禁止吸烟。
+### 公共场所、禁止吸烟。
 
 
-此工程为部分简化版demo
+| ![image](https://github.com/yugu88/MagicWX/blob/master/device-2020-03-25-160008.png) | ![image](https://img-blog.csdnimg.cn/20200324103336571.png) |
+| ---- | ---- |
+| ![image](https://img-blog.csdnimg.cn/20200319191809959.jpg) | ![image](https://img-blog.csdnimg.cn/2019123116334614.jpeg) |
+
 
 
 ``` nginx
